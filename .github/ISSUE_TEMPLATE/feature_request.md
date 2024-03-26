@@ -8,13 +8,10 @@ assignees: ''
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+- I'm always frustrated when I can't easily find and see the past messages in Discord App.
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+- Adding functions(can be creating icon), that make possible to search the specific and words in chats. Then I would like to be able to see my past messages that is important very easily and fast.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+- Instead of putting search box to look over the past messages,  I could put the Magnifier icon to see messages for the specific date that I wanted to search.
