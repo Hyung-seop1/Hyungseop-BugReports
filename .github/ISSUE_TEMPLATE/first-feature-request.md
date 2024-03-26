@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: First Feature request
 about: This is the First Feature request
 title: ''
 labels: ''
