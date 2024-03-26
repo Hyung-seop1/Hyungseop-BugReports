@@ -27,7 +27,6 @@ Steps to reproduce the behavior:
 ![Screenshot 2024-03-26 131015](https://github.com/Hyung-seop1/Hyungseop-BugReports/assets/158518983/95e47713-108f-49ec-b029-700331de379f)
 
 
-
 **Desktop (please complete the following information):**
  - OS: Windows 10 pro
  - Program or system : Microsoft Visual Studio Community 2022
